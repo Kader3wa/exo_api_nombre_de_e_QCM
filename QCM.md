@@ -28,7 +28,7 @@ const myMap = new Map([1, 2, 3]);
 
 - [ ] len
 - [ ] length
-- [ ] size
+- [*] size
 - [ ] size()
 
 ## Question 4
