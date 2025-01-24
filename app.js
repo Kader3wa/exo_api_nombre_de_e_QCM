@@ -16,7 +16,7 @@ function onClick(event) {
     fetch(api_endpoint)
         .then(response => response.json())
         .then(data => {
-            console.log(data.slice(0, 10));
+            console.log(data);
             let posts = data.slice(0, value);
             posts.map(post => {
                 let count = 0;
