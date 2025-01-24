@@ -13,6 +13,7 @@ elInput.addEventListener('input', eventInput);
 
 function onClick(event) {
     event.preventDefault();
+    message.innerHTML = '';
     fetch(api_endpoint)
         .then(response => response.json())
         .then(data => {
