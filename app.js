@@ -35,4 +35,3 @@ function onClick(event) {
 }
 
 elSubmit.addEventListener('click', onClick);
-

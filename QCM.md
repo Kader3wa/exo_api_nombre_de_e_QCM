@@ -16,7 +16,7 @@ Quels sont les types primitifs en JS ? Réponses :
 - [ ] boolean null undefined number bigint
 - [ ] boolean null undefined number bigint string symbole
 - [ ] Object number string
-- [ ] Object boolean null undefined number bigint string symbole
+- [*] Object boolean null undefined number bigint string symbole
 
 ## Question 3
 
